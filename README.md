@@ -3,13 +3,23 @@
 
 #### The purpose of this program is to simulate the success and failure of real life gambling scenarios.
 
+#### Usage
+
+```
+python gambler.py
+```
+
+#### Reset game
+
+If the budget reaches less than 0, edit '*records.json*' file and start again.
+
+#### Notes
+
 Please understand, that gambling can result in major losses. 
 
 Please do **NOT** use this strategy in live casinos as it is not allowed. 
 
 The developer of this program does **NOT** take responsibility for any losses.
-
-This project is licensed under the MIT license.
 
 Have fun and may the gods be in your favor!
 
