@@ -21,6 +21,6 @@ Please do **NOT** use this strategy in live casinos as it is not allowed.
 
 The developer of this program does **NOT** take responsibility for any losses.
 
-Have fun and may the gods be in your favor!
+Have fun and may the odds be ever in your favor!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
