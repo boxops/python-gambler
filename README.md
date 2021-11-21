@@ -8,11 +8,12 @@
 ```
 python gambler.py
 ```
-
 ### Reset game
 
-If the budget reaches less than 0, edit '*records.json*' file and start again.
-
+If the budget drops down to less than 0, run reset.py file and start again.
+```
+python reset.py
+```
 ### Notes
 
 Please understand, that gambling can result in major losses. 
