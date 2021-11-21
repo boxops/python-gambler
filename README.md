@@ -3,12 +3,12 @@
 
 #### The purpose of this program is to simulate the success and failure of real life gambling scenarios.
 
-### Usage
+### Play Game
 
 ```
 python gambler.py
 ```
-### Reset game
+### Reset Game
 
 If the budget drops down to less than 0, run reset.py file and start again.
 ```
